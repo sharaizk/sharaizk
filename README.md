@@ -2,7 +2,6 @@
 <h3 align="center">A passionate and skilled full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharaizk&label=Profile%20views&color=0e75b6&style=flat" alt="sharaizk" /> </p>
-<a href="https://wakatime.com/badge/user/a523f4a3-01dc-4ca0-990b-702f25ddf6b3/project/c9c0bcf9-c5a0-47f8-91b0-6763b5384723"><img src="https://wakatime.com/badge/user/a523f4a3-01dc-4ca0-990b-702f25ddf6b3/project/c9c0bcf9-c5a0-47f8-91b0-6763b5384723.svg" alt="wakatime"></a>
 
 - 🔭 I’m currently working on **M.E.R.N, M.E.V.N, React Native, NodeJS, ExpressJS, MongoDB, MySQL**
 
