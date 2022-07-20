@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sharaiz khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharaiz khan" height="30" width="40" /></a>
   <a href="https://thecodebro.com" target="blank">
-    <img src="https://res.cloudinary.com/xdevs/image/upload/v1658297839/logo_x6wgb3.png" alt="sharaiz khan" height="30" wit/>
+    <img align="center" src="https://res.cloudinary.com/xdevs/image/upload/v1658297839/logo_x6wgb3.png" alt="sharaiz khan" height="40" width="0"/>
   </a>
 </p>
 
