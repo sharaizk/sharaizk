@@ -92,6 +92,9 @@
   </a>
 </div>
 
+<div align="center"></div>
+<h2 align="left">My Forgejo Heatmap</h2>
+<p align="left">*Updated till August 2, 2024</p>
 ###
 
 <div align="center">
