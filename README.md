@@ -92,10 +92,12 @@
   </a>
 </div>
 
-<div align="center"></div>
+
 <h2 align="left">My Forgejo Heatmap</h2>
 <p align="left">*Updated till August 2, 2024</p>
+<div align="center">
 <img src="https://res.cloudinary.com/xdevs/image/upload/v1722590750/Screenshot_2024-08-02_at_2.24.42_PM_ckcssl.png" width="735" height="165" alt="forgejo_heatmap" />
+</div>
 ###
 
 <div align="center">
