@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ... 2020<br>📚 I'm currently learning ... Docker, Kubernetes, Nginx, and lot more<br>🎯 Goals: ... Aiming to become the development guru<br>📫 How to reach me <b>sharaizkhan78@gmail.com</b></p>
+<p align="left">✨ Creating bugs since ... 2020<br>📚 I'm currently learning ... Design Patterns <br>🎯 Goals: ... Aiming to become the development guru<br>📫 How to reach me <b>sharaizkhan78@gmail.com</b></p>
 
 ###
 <h2 align="left">Total Profile Visits:</h2>
