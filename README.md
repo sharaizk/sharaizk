@@ -92,19 +92,4 @@
   </a>
 </div>
 
-
-<h2 align="left">My Forgejo Heatmap</h2>
-<p align="left">*Updated till August 2, 2024</p>
-<p>Forgejo is a self-hosted lightweight software forge. Easy to install and low maintenance, it just does the job.</p>
-<div align="center">
-<img src="https://res.cloudinary.com/xdevs/image/upload/v1722590750/Screenshot_2024-08-02_at_2.24.42_PM_ckcssl.png" width="735" height="165" alt="forgejo_heatmap" />
 </div>
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharaizk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1&custom_title=Github%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharaizk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=sharaizk&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
